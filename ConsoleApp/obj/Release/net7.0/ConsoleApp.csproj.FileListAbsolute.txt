@@ -1,0 +1,15 @@
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\ConsoleApp.exe
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\ConsoleApp.deps.json
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\ConsoleApp.dll
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\ConsoleApp.pdb
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.dll
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\refint\ConsoleApp.dll
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.pdb
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\obj\Release\net7.0\ref\ConsoleApp.dll

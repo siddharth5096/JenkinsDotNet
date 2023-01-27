@@ -1,0 +1,5 @@
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\publish\ConsoleApp.exe
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\publish\ConsoleApp.dll
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\publish\ConsoleApp.deps.json
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\publish\ConsoleApp.runtimeconfig.json
+C:\Users\anara\OneDrive\Desktop\Deepthi\Office\CodeWorkspace\Bajaj\DotNet\ConsoleApp\ConsoleApp\bin\Release\net7.0\publish\ConsoleApp.pdb
