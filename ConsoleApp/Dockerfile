@@ -2,4 +2,5 @@
 
 COPY bin/Release/net7.0/publish .
 
+
 ENTRYPOINT ["dotnet","ConsoleApp.dll"]
